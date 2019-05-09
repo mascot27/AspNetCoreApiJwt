@@ -1,0 +1,15 @@
+C:\Users\czeller\RiderProjects\AspNetCoreApiJwt\SimpleApiWithAuth\bin\Debug\netcoreapp2.2\SimpleApiWithAuth.dll.config
+C:\Users\czeller\RiderProjects\AspNetCoreApiJwt\SimpleApiWithAuth\bin\Debug\netcoreapp2.2\SimpleApiWithAuth.deps.json
+C:\Users\czeller\RiderProjects\AspNetCoreApiJwt\SimpleApiWithAuth\bin\Debug\netcoreapp2.2\SimpleApiWithAuth.runtimeconfig.json
+C:\Users\czeller\RiderProjects\AspNetCoreApiJwt\SimpleApiWithAuth\bin\Debug\netcoreapp2.2\SimpleApiWithAuth.runtimeconfig.dev.json
+C:\Users\czeller\RiderProjects\AspNetCoreApiJwt\SimpleApiWithAuth\bin\Debug\netcoreapp2.2\SimpleApiWithAuth.dll
+C:\Users\czeller\RiderProjects\AspNetCoreApiJwt\SimpleApiWithAuth\bin\Debug\netcoreapp2.2\SimpleApiWithAuth.pdb
+C:\Users\czeller\RiderProjects\AspNetCoreApiJwt\SimpleApiWithAuth\obj\Debug\netcoreapp2.2\SimpleApiWithAuth.csprojAssemblyReference.cache
+C:\Users\czeller\RiderProjects\AspNetCoreApiJwt\SimpleApiWithAuth\obj\Debug\netcoreapp2.2\SimpleApiWithAuth.csproj.CoreCompileInputs.cache
+C:\Users\czeller\RiderProjects\AspNetCoreApiJwt\SimpleApiWithAuth\obj\Debug\netcoreapp2.2\SimpleApiWithAuth.RazorAssemblyInfo.cache
+C:\Users\czeller\RiderProjects\AspNetCoreApiJwt\SimpleApiWithAuth\obj\Debug\netcoreapp2.2\SimpleApiWithAuth.RazorAssemblyInfo.cs
+C:\Users\czeller\RiderProjects\AspNetCoreApiJwt\SimpleApiWithAuth\obj\Debug\netcoreapp2.2\SimpleApiWithAuth.AssemblyInfoInputs.cache
+C:\Users\czeller\RiderProjects\AspNetCoreApiJwt\SimpleApiWithAuth\obj\Debug\netcoreapp2.2\SimpleApiWithAuth.AssemblyInfo.cs
+C:\Users\czeller\RiderProjects\AspNetCoreApiJwt\SimpleApiWithAuth\obj\Debug\netcoreapp2.2\SimpleApiWithAuth.RazorTargetAssemblyInfo.cache
+C:\Users\czeller\RiderProjects\AspNetCoreApiJwt\SimpleApiWithAuth\obj\Debug\netcoreapp2.2\SimpleApiWithAuth.dll
+C:\Users\czeller\RiderProjects\AspNetCoreApiJwt\SimpleApiWithAuth\obj\Debug\netcoreapp2.2\SimpleApiWithAuth.pdb
